@@ -19,15 +19,15 @@ A ideia central é transformar relações sociais/financeiras em atributos numé
 analise-risco-srl/
 ├── data/
 │   └── dados_financeiros.csv
+├── outputs/
 ├── prolog/
 │   └── rede_social.pl
 ├── src/
 │   └── main.py
-├── outputs/
 ├── .gitignore
 ├── Dockerfile
-├── requirements.txt
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ---
