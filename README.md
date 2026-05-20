@@ -144,16 +144,3 @@ O valor pode variar conforme a base de dados e o treinamento.
 O projeto segue o paradigma de **Statistical Relational Learning**, pois combina representação lógica de relações com aprendizado estatístico. O Prolog modela a estrutura relacional do problema, enquanto a Regressão Logística calibra numericamente a influência das variáveis extraídas dessa estrutura.
 
 ---
-
-## Observação para entrega
-
-Para entregar no GitHub:
-
-```bash
-git init
-git add .
-git commit -m "Implementa análise de risco com SRL, Prolog e Python"
-git branch -M main
-git remote add origin <URL_DO_SEU_REPOSITORIO>
-git push -u origin main
-```
