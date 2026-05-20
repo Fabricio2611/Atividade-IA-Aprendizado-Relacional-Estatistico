@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-.venv/
-venv/
-.env
-outputs/*.joblib
-outputs/*.csv
